@@ -12,5 +12,5 @@ Netlify Url : https://zen-assignment-pagination-dom-task.netlify.app/
 <ul>
 <li>Design a Pagination in DOM manipulation</li>
 <li>Create the needed HTML elements using DOM</li>
-<li>Use only CSS for Design </li>
+<li>Use only CSS for Design (No Bootstrap) </li>
   </ul>
